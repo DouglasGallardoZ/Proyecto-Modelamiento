@@ -67,7 +67,7 @@ public class Empleado {
 	
 	
 	public String getNombre() {
-		return nombre;
+		return nombre+"hola";
 	}
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
