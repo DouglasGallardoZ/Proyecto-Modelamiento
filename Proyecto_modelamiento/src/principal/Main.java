@@ -33,7 +33,7 @@ public class Main {
 		System.out.println("5.- Registrar administrador");
 		System.out.println("6.- Cerrar sesion");
 		
-		System.out.print("Digite opcion: ");
+		System.out.print("Digite opcion (1-6): ");
 		
 		opc=leerN.nextInt();
 		
