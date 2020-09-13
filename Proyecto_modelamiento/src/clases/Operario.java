@@ -1,7 +1,7 @@
 package clases;
 
 public class Operario extends Empleado {
-
+	private int telefono;
 	public Operario() {
 		// TODO Auto-generated constructor stub
 	}
