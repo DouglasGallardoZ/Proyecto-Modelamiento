@@ -3,6 +3,7 @@ package clases;
 public class Jefe extends Empleado {
 	
 	private int telefono;
+	private int edad;
 	
 	public Jefe() {
 		// TODO Auto-generated constructor stub

@@ -8,6 +8,7 @@ public class Administrador extends Empleado {
 	private String usuario;
 	private String contraseña;
 	private CompañiaFerroviaria oCompañia;
+	private int edad
 
 	public Administrador() {
 		// TODO Auto-generated constructor stub
